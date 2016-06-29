@@ -32,7 +32,6 @@ ul {
   ul ol {
     margin: 0;
     padding: 0;
-    list-style: decimal;
     background-color: #E5E5E5;
     clear: both; }
     ul ol li {
@@ -61,5 +60,11 @@ ul {
       color: #3E5706; }
   .active div {
     background-color: #3E5706; }
+
+.olNum {
+  vertical-align: middle;
+  font-size: 0.8rem;
+  color: #A6A6A6;
+  margin-right: 1rem; }
 
 /*# sourceMappingURL=main.css.map */
