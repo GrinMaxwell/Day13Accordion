@@ -42,6 +42,14 @@ ul {
         padding: 1rem;
         vertical-align: middle;
         color: #797979; }
+      ul ol li .sub-num {
+        float: right;
+        margin: 0.7rem;
+        padding: 0.2rem;
+        background-color: #E5E5E5;
+        border-radius: 5px;
+        border: 1px solid #A6A6A6;
+        color: #797979; }
 
 .hide {
   height: 0;
